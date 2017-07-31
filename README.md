@@ -1,4 +1,5 @@
-# PythonHasher https://travis-ci.org/0x00f/PythonHasher.svg?branch=master
+# PythonHasher [![Build Status](https://travis-ci.org/0x00f/PythonHasher.svg?branch=master)](https://travis-ci.org/0x00f/PythonHasher)
+
 Create multiple hashes quickly with drag and drop.
 
 1 - Save the python script wherever you like, although a filepath without spaces " " is a good idea.

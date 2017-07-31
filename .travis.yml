@@ -1,1 +1,10 @@
 language: python
+
+# command to install dependencies
+install:
+  - pip install . --use-mirrors
+  - pip install -r requirements.txt --use-mirrors
+  
+# command to run tests
+script: 
+  - python sha256.py logo.png

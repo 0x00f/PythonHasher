@@ -11,6 +11,7 @@ Create multiple hashes quickly with drag and drop.
 
 4 - A hash.txt text file is created in the folder, containing hashes of all selected files:
      filename  |  sha hash  [SHA256] 
+     
      filename  |  sha hash  [SHA256]
      .
      .

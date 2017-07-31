@@ -1,0 +1,1 @@
+"C:\Python34\python.exe" C:\Users\michael\Dropbox\code\PYTHON\PyHash\sha256.py %*

@@ -6,4 +6,4 @@ install:
   
 # command to run tests
 script: 
-  - python sha256.py ./logo.png
+  - python sha256.py ./logo.jpg

@@ -1,4 +1,4 @@
-# PythonHasher
+# PythonHasher https://travis-ci.org/0x00f/PythonHasher.svg?branch=master
 Create multiple hashes quickly with drag and drop.
 
 1 - Save the python script wherever you like, although a filepath without spaces " " is a good idea.
